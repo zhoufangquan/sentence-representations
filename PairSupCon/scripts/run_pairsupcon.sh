@@ -5,7 +5,7 @@ python main.py \
     --dev_set sts \
     --path_sts_data $path-to-the-senteval-datasets \
     --datapath $path-to-the-nli-dataset \
-    --dataname nli_train_posneg \
+    --dataname 'nli_train_posneg' \
     --text sentence \
     --pairsimi pairsimi \
     --num_classes 2  \
